@@ -1,8 +1,3 @@
-Here’s a **professional, clean, submission-ready README.md** for your project 👇
-(Optimized for GitHub + Viva + Lab submission)
-
----
-
 # 🚀 WGAN on CIFAR-10 (Interactive Demo)
 
 🎯 **Wasserstein GAN (WGAN-GP) trained on CIFAR-10 with an interactive Streamlit frontend for real-time image generation and analysis.**
